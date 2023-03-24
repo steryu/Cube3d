@@ -19,10 +19,10 @@ The tutorial provides a comprehensive introduction to the technique of ray-casti
 begins with an overview of the basic concepts involved in ray-casting and explains the algorithm behind it in detail.
 Because of the tutorial we learned topics such as setting up the screen, creating a 2D map, casting rays from the player's position, detecting collisions with walls, and implementing textured walls.
 
-### **Textures**
+- **Textures**\
 The idea was to have the game be underwater, so the self made pixel art reflected an aquatic theme, aptly named blubble (a combination of "blub" and "bubble"). I made four different images for each cardinal wall direction. Only the image featuring fishes was made to be animated, hopefully enhancing the nature of the environment more :).
 
-### **The mini map**
+ - **The mini map**\
 My teammate had skillfully coded the mini-map, using the 2D array to create an x-y grid. Now we had the coordinates of open spaces and walls and were able to texture the map, by placing the pixels at the bottom right of the map. Then, by saving the player's position at every move, we could update and render the mini-map with each step.
 
 <img src="https://github.com/steryu/cube3d/blob/main/textures/gif/cube3D_animations.gif" width="60%" height="60%">
