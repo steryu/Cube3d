@@ -13,7 +13,7 @@ The inspiration for this two-person team project came from Wolfenstein 3D, the f
 - `<- ->` to rotate the point of view
 - `SHIFT` to sprint
 
-### **Devolopment process**
+### **Devolopment**
 The first thing we did was going trought this amazing tutorial by Lode Vandevenne. Without it we wouldve had a hard time.
 The tutorial provides a comprehensive introduction to the technique of ray-casting in computer graphics. It
 begins with an overview of the basic concepts involved in ray-casting and explains the algorithm behind it in detail.
