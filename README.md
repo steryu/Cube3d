@@ -9,7 +9,7 @@ The inspiration for this two-person team project came from Wolfenstein 3D, the f
 <img src="https://github.com/steryu/Cube3d/blob/main/textures/gif/Cube3D_short.gif" width="60%" height="60%">
 
 ### **Usage**
-- `WASD` to move
+- `W, A, S, D` to move
 - `<- ->` to rotate the point of view
 - `SHIFT` to sprint
 
@@ -21,6 +21,9 @@ Because of the tutorial we learned topics such as setting up the screen, creatin
 
 ### **Textures**
 The idea was to have the game be underwater, so the self made pixel art reflected an aquatic theme, aptly named blubble (a combination of "blub" and "bubble"). I made four different images for each cardinal wall direction. Only the image featuring fishes was made to be animated, hopefully enhancing the nature of the environment more :).
+
+### **The mini map**
+My teammate had skillfully coded the mini-map, using the 2D array to create an x-y grid. Now we had the coordinates of open spaces and walls and were able to texture the map, by placing the pixels at the bottom right of the map. Then, by saving the player's position at every move, we could update and render the mini-map with each step.
 
 <img src="https://github.com/steryu/cube3d/blob/main/textures/gif/cube3D_animations.gif" width="60%" height="60%">
 
