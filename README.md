@@ -8,20 +8,19 @@ The inspiration for this two-person team project came from Wolfenstein 3D, the f
 
 <img src="https://github.com/steryu/Cube3d/blob/main/textures/gif/Cube3D_short.gif" width="60%" height="60%">
 
-**Usage**
-WASD for momevent
-< > arrows to roate the point of view
-SHIFT to sprint
+### **Usage**
+- `WASD` to move
+- `<- ->` to rotate the point of view
+- `SHIFT` to sprint
 
-**Devolopment process**
+### **Devolopment process**
 The first thing we did was going trought this amazing tutorial by Lode Vandevenne. Without it we wouldve had a hard time.
 The tutorial provides a comprehensive introduction to the technique of ray-casting in computer graphics. It
 begins with an overview of the basic concepts involved in ray-casting and explains the algorithm behind it in detail.
-
 Because of the tutorial we learned topics such as setting up the screen, creating a 2D map, casting rays from the player's position, detecting collisions with walls, and implementing textured walls.
 
-**Textures**
-for the textures I made self made pixel art. The idea was to have the game be underwater, hence the name blubble (blub and blubble). I made four different images for the the north, south, east and west walls. only the image with the fish I animated.
+### **Textures**
+The idea was to have the game be underwater, so the self made pixel art reflected an aquatic theme, aptly named blubble (a combination of "blub" and "bubble"). I made four different images for each cardinal wall direction. Only the image featuring fishes was made to be animated, hopefully enhancing the nature of the environment more :).
 
 <img src="https://github.com/steryu/cube3d/blob/main/textures/gif/cube3D_animations.gif" width="60%" height="60%">
 
