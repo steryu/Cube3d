@@ -23,7 +23,7 @@ Because of the tutorial we learned topics such as setting up the screen, creatin
 **Textures**
 for the textures I made self made pixel art. The idea was to have the game be underwater, hence the name blubble (blub and blubble). I made four different images for the the north, south, east and west walls. only the image with the fish I animated.
 
-<img src="https://github.com/steryu/Cube3d/blob/main/textures/gif/Cube3D_animations.gif" width="60%" height="60%">
+<img src="https://github.com/steryu/cube3d/blob/main/textures/gif/cube3D_animations.gif" width="60%" height="60%">
 
 ### **How to compile**
 ``` sh
