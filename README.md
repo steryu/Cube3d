@@ -14,7 +14,7 @@ The inspiration for this two-person team project came from Wolfenstein 3D, the f
 - `SHIFT` to sprint
 
 ### **The Game**
-The first thing we did was going trought this amazing tutorial by Lode Vandevenne. Without it we wouldve had a hard time.
+The first thing we did was going trought this amazing tutorial by Lode Vandevenne. Without it we would've had a hard time.
 The tutorial provides a comprehensive introduction to the technique of ray-casting in computer graphics. It
 begins with an overview of the basic concepts involved in ray-casting and explains the algorithm behind it in detail.
 Because of the tutorial we learned topics such as setting up the screen, creating a 2D map, casting rays from the player's position, detecting collisions with walls, and implementing textured walls.
