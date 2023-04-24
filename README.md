@@ -33,16 +33,9 @@ My teammate had skillfully coded the mini-map, using the 2D array to create an x
 make && ./cub3d maps/[INSERT_MAP].cub
 ```
 
-### **Team**
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+### **Contributors**
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Raavkoper"><img src="https://avatars.githubusercontent.com/u/94134595?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Raav Koper</b></sub></a><br /><a
   </tr>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+ <table>
