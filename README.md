@@ -1,4 +1,4 @@
-# cube3d 
+# cub3d 
 
 A 3D mini game named Blubble. 
 
@@ -29,5 +29,5 @@ My teammate had skillfully coded the mini-map, using the 2D array to create an x
 
 ### **How to compile**
 ``` sh
-make && ./cube3d maps/[INSERT_MAP].cub
+make && ./cub3d maps/[INSERT_MAP].cub
 ```
