@@ -12,6 +12,7 @@ The inspiration for this two-person team project came from Wolfenstein 3D, the f
 - `W, A, S, D` to move
 - `<- ->` to rotate the point of view
 - `SHIFT` to sprint
+- `ESC` - to exit the game
 
 ### **The Game**
 The first thing we did was going trought this amazing tutorial by Lode Vandevenne. Without it we would've had a hard time.
@@ -31,3 +32,5 @@ My teammate had skillfully coded the mini-map, using the 2D array to create an x
 ``` sh
 make && ./cub3d maps/[INSERT_MAP].cub
 ```
+
+- **Team**\
